@@ -1,0 +1,2 @@
+ollama run Revanite/Hal
+ollama run llama2:7b
